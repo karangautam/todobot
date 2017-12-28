@@ -1,1 +1,1 @@
-web: gunicorn todobot:main
+todobot: python todobot.py
